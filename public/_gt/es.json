@@ -1,0 +1,805 @@
+{
+  "06e29ca699a1d763": {
+    "c": [
+      {
+        "c": "No se encontraron elementos de menú",
+        "i": 2,
+        "t": "p"
+      },
+      {
+        "c": "Intenta ajustar tus filtros",
+        "i": 3,
+        "t": "p"
+      }
+    ],
+    "i": 1,
+    "t": "div"
+  },
+  "15689ca3e7670e77": {
+    "c": [
+      {
+        "i": 2,
+        "k": "_gt_n_2",
+        "v": "n"
+      },
+      " (",
+      {
+        "i": 3,
+        "k": "_gt_n_3",
+        "v": "n"
+      },
+      ")"
+    ],
+    "i": 1,
+    "t": "span"
+  },
+  "1784fd57caa58ce6": {
+    "d": {
+      "b": {
+        "happening": {
+          "c": "En curso",
+          "i": 2,
+          "t": "Badge"
+        },
+        "past": {
+          "c": "Evento pasado",
+          "i": 2,
+          "t": "Badge"
+        },
+        "upcoming": {
+          "c": "Próximo",
+          "i": 2,
+          "t": "Badge"
+        }
+      },
+      "t": "b"
+    },
+    "i": 1,
+    "t": "Branch"
+  },
+  "190816f92d2f67be": {
+    "c": "Horario semanal",
+    "i": 1,
+    "t": "h2"
+  },
+  "1bdc17d8bbba6fa8": {
+    "c": "Precio: ",
+    "i": 1,
+    "t": "span"
+  },
+  "270341e0f35beed4": [
+    {
+      "c": "Camión no encontrado",
+      "i": 1,
+      "t": "h1"
+    },
+    {
+      "c": "El camión que buscas no existe.",
+      "i": 2,
+      "t": "p"
+    }
+  ],
+  "315cfc4abf20b538": {
+    "d": {
+      "b": {
+        "closed": {
+          "c": "Cerrado",
+          "i": 2,
+          "t": "Badge"
+        },
+        "open": {
+          "c": "Abierto ahora",
+          "i": 2,
+          "t": "Badge"
+        }
+      },
+      "t": "b"
+    },
+    "i": 1,
+    "t": "Branch"
+  },
+  "326a4a9306dcdfa1": "Volver a todos los camiones",
+  "3458f17d009b2ef0": {
+    "c": "Calificaciones",
+    "i": 1,
+    "t": "h2"
+  },
+  "358f17a9e85637f8": "Resumen de la semana",
+  "383bffc6df31b669": {
+    "c": [
+      {
+        "c": "♡",
+        "i": 2,
+        "t": "p"
+      },
+      {
+        "c": "Aún no has guardado ningún camión",
+        "i": 3,
+        "t": "p"
+      },
+      {
+        "c": "Explora camiones y toca el corazón para guardar tus favoritos",
+        "i": 4,
+        "t": "p"
+      }
+    ],
+    "i": 1,
+    "t": "div"
+  },
+  "3d616ff494380cfe": {
+    "d": {
+      "b": {
+        "many": {
+          "c": [
+            {
+              "i": 3,
+              "k": "_gt_n_3",
+              "v": "n"
+            },
+            " elementos guardados"
+          ],
+          "i": 2,
+          "t": "C2"
+        },
+        "other": {
+          "c": [
+            {
+              "i": 3,
+              "k": "_gt_n_3",
+              "v": "n"
+            },
+            " elementos guardados"
+          ],
+          "i": 2,
+          "t": "C2"
+        },
+        "plural": {
+          "c": [
+            {
+              "i": 3,
+              "k": "_gt_n_3",
+              "v": "n"
+            },
+            " elementos guardados"
+          ],
+          "i": 2,
+          "t": "C2"
+        },
+        "singular": {
+          "c": [
+            {
+              "i": 3,
+              "k": "_gt_n_3",
+              "v": "n"
+            },
+            " elemento guardado"
+          ],
+          "i": 2,
+          "t": "C2"
+        }
+      },
+      "t": "p"
+    },
+    "i": 1,
+    "t": "Plural"
+  },
+  "447e30b435ac442c": "Food Truck Finder",
+  "694de64d90569af1": "Vista de día",
+  "7205b7d69af706c2": {
+    "c": {
+      "d": {
+        "b": {
+          "level-1": {
+            "c": "Medio",
+            "i": 3,
+            "t": "C3"
+          },
+          "level-2": {
+            "c": "Picante",
+            "i": 3,
+            "t": "C3"
+          },
+          "level-3": {
+            "c": "Extra Spicy",
+            "i": 3,
+            "t": "C3"
+          }
+        },
+        "t": "b"
+      },
+      "i": 2,
+      "t": "Branch"
+    },
+    "i": 1,
+    "t": "Badge"
+  },
+  "744f7e0b12ce2344": "Elementos del menú",
+  "7ae58b6286a45aaa": "Descubre food trucks locales, explora sus menús, consulta horarios y encuentra tu próxima comida favorita sobre ruedas.",
+  "7b81ed5ee4ee09db": {
+    "c": [
+      {
+        "c": "♡",
+        "i": 2,
+        "t": "p"
+      },
+      {
+        "c": "Aún no has guardado ningún elemento del menú",
+        "i": 3,
+        "t": "p"
+      },
+      {
+        "c": "Explora los menús y toca el corazón para guardar tus favoritos",
+        "i": 4,
+        "t": "p"
+      }
+    ],
+    "i": 1,
+    "t": "div"
+  },
+  "7f33a7f36be5f69c": {
+    "c": [
+      {
+        "c": [
+          "Esta es una aplicación de ejemplo creada con ",
+          {
+            "c": "General Translation",
+            "i": 3,
+            "t": "a"
+          },
+          " para demostrar la internacionalización. No es un servicio real."
+        ],
+        "i": 2,
+        "t": "p"
+      },
+      {
+        "c": [
+          {
+            "c": "Mobile Cuisine Magazine",
+            "i": 5,
+            "t": "a"
+          },
+          {
+            "c": "Street Food USA",
+            "i": 6,
+            "t": "a"
+          },
+          {
+            "c": "Roaming Hunger",
+            "i": 7,
+            "t": "a"
+          }
+        ],
+        "i": 4,
+        "t": "div"
+      }
+    ],
+    "i": 1,
+    "t": "div"
+  },
+  "7f485d3cbfd284c9": "Borrar todo",
+  "81016ddb779e6c8e": {
+    "d": {
+      "b": {
+        "many": {
+          "c": [
+            {
+              "i": 3,
+              "k": "_gt_n_3",
+              "v": "n"
+            },
+            " elementos encontrados"
+          ],
+          "i": 2,
+          "t": "C2"
+        },
+        "other": {
+          "c": [
+            {
+              "i": 3,
+              "k": "_gt_n_3",
+              "v": "n"
+            },
+            " elementos encontrados"
+          ],
+          "i": 2,
+          "t": "C2"
+        },
+        "plural": {
+          "c": [
+            {
+              "i": 3,
+              "k": "_gt_n_3",
+              "v": "n"
+            },
+            " elementos encontrados"
+          ],
+          "i": 2,
+          "t": "C2"
+        },
+        "singular": {
+          "c": [
+            {
+              "i": 3,
+              "k": "_gt_n_3",
+              "v": "n"
+            },
+            " elemento encontrado"
+          ],
+          "i": 2,
+          "t": "C2"
+        }
+      },
+      "t": "p"
+    },
+    "i": 1,
+    "t": "Plural"
+  },
+  "8116d763db5540db": {
+    "c": [
+      {
+        "c": "Encuentra Tu Próximo Food Truck Favorito",
+        "i": 2,
+        "t": "h1"
+      },
+      {
+        "c": "Explora camiones locales, descubre menús y nunca te pierdas una comida sobre ruedas",
+        "i": 3,
+        "t": "p"
+      }
+    ],
+    "i": 1,
+    "t": "div"
+  },
+  "8272da4b7e5449fd": {
+    "c": [
+      {
+        "c": "No se encontraron camiones que coincidan con tus filtros",
+        "i": 2,
+        "t": "p"
+      },
+      {
+        "c": "Intenta ajustar tu búsqueda o filtros",
+        "i": 3,
+        "t": "p"
+      }
+    ],
+    "i": 1,
+    "t": "div"
+  },
+  "8410be817f4e3822": [
+    {
+      "c": "Horario semanal",
+      "i": 1,
+      "t": "h1"
+    },
+    {
+      "c": "Descubre dónde estarán tus camiones favoritos",
+      "i": 2,
+      "t": "p"
+    }
+  ],
+  "862f73292fd0229c": {
+    "c": {
+      "d": {
+        "b": {
+          "many": {
+            "c": [
+              {
+                "i": 4,
+                "k": "_gt_n_4",
+                "v": "n"
+              },
+              " reseñas"
+            ],
+            "i": 3,
+            "t": "C3"
+          },
+          "other": {
+            "c": [
+              {
+                "i": 4,
+                "k": "_gt_n_4",
+                "v": "n"
+              },
+              " reseñas"
+            ],
+            "i": 3,
+            "t": "C3"
+          },
+          "plural": {
+            "c": [
+              {
+                "i": 4,
+                "k": "_gt_n_4",
+                "v": "n"
+              },
+              " reseñas"
+            ],
+            "i": 3,
+            "t": "C3"
+          },
+          "singular": {
+            "c": [
+              {
+                "i": 4,
+                "k": "_gt_n_4",
+                "v": "n"
+              },
+              " reseña"
+            ],
+            "i": 3,
+            "t": "C3"
+          }
+        },
+        "t": "p"
+      },
+      "i": 2,
+      "t": "Plural"
+    },
+    "i": 1,
+    "t": "p"
+  },
+  "8a2d4716c6f791e8": {
+    "d": {
+      "b": {
+        "many": {
+          "c": [
+            {
+              "i": 3,
+              "k": "_gt_n_3",
+              "v": "n"
+            },
+            " camiones encontrados"
+          ],
+          "i": 2,
+          "t": "C2"
+        },
+        "other": {
+          "c": [
+            {
+              "i": 3,
+              "k": "_gt_n_3",
+              "v": "n"
+            },
+            " camiones encontrados"
+          ],
+          "i": 2,
+          "t": "C2"
+        },
+        "plural": {
+          "c": [
+            {
+              "i": 3,
+              "k": "_gt_n_3",
+              "v": "n"
+            },
+            " camiones encontrados"
+          ],
+          "i": 2,
+          "t": "C2"
+        },
+        "singular": {
+          "c": [
+            {
+              "i": 3,
+              "k": "_gt_n_3",
+              "v": "n"
+            },
+            " camión encontrado"
+          ],
+          "i": 2,
+          "t": "C2"
+        }
+      },
+      "t": "p"
+    },
+    "i": 1,
+    "t": "Plural"
+  },
+  "8fc883f295dabcc2": {
+    "d": {
+      "b": {
+        "many": {
+          "c": [
+            {
+              "i": 3,
+              "k": "_gt_n_3",
+              "v": "n"
+            },
+            " camiones guardados"
+          ],
+          "i": 2,
+          "t": "C2"
+        },
+        "other": {
+          "c": [
+            {
+              "i": 3,
+              "k": "_gt_n_3",
+              "v": "n"
+            },
+            " camiones guardados"
+          ],
+          "i": 2,
+          "t": "C2"
+        },
+        "plural": {
+          "c": [
+            {
+              "i": 3,
+              "k": "_gt_n_3",
+              "v": "n"
+            },
+            " camiones guardados"
+          ],
+          "i": 2,
+          "t": "C2"
+        },
+        "singular": {
+          "c": [
+            {
+              "i": 3,
+              "k": "_gt_n_3",
+              "v": "n"
+            },
+            " camión guardado"
+          ],
+          "i": 2,
+          "t": "C2"
+        }
+      },
+      "t": "p"
+    },
+    "i": 1,
+    "t": "Plural"
+  },
+  "939bfe1249a76045": "Evento pasado",
+  "987796c2241442d7": "Cerrado",
+  "99a137da0b4474b2": {
+    "d": {
+      "b": {
+        "many": {
+          "c": [
+            {
+              "i": 3,
+              "k": "_gt_n_3",
+              "v": "n"
+            },
+            " camiones"
+          ],
+          "i": 2,
+          "t": "C2"
+        },
+        "other": {
+          "c": [
+            {
+              "i": 3,
+              "k": "_gt_n_3",
+              "v": "n"
+            },
+            " camiones"
+          ],
+          "i": 2,
+          "t": "C2"
+        },
+        "plural": {
+          "c": [
+            {
+              "i": 3,
+              "k": "_gt_n_3",
+              "v": "n"
+            },
+            " camiones"
+          ],
+          "i": 2,
+          "t": "C2"
+        },
+        "singular": {
+          "c": [
+            {
+              "i": 3,
+              "k": "_gt_n_3",
+              "v": "n"
+            },
+            " camión"
+          ],
+          "i": 2,
+          "t": "C2"
+        }
+      },
+      "t": "p"
+    },
+    "i": 1,
+    "t": "Plural"
+  },
+  "a013c005483cdd19": {
+    "d": {
+      "pl": "Search trucks..."
+    },
+    "i": 1,
+    "t": "input"
+  },
+  "a3db978d173d02f7": [
+    {
+      "c": "Eventos",
+      "i": 1,
+      "t": "h1"
+    },
+    {
+      "c": "Concentraciones de food trucks, festivales y encuentros espontáneos",
+      "i": 2,
+      "t": "p"
+    }
+  ],
+  "a4b9a06abd2bb31b": "Camiones",
+  "a65ad03dda72be9a": "Todos",
+  "ab1745a9da8bb6ee": "Buscador de food trucks | Traducción general",
+  "ab6f6126be9c004d": {
+    "c": "Menú",
+    "i": 1,
+    "t": "h2"
+  },
+  "ad0dd8bfa7c9bfd2": [
+    {
+      "c": "Favoritos",
+      "i": 1,
+      "t": "h1"
+    },
+    {
+      "c": "Tus camiones y elementos de menú guardados",
+      "i": 2,
+      "t": "p"
+    }
+  ],
+  "b2edb0c16d658782": [
+    {
+      "c": "Explorador de Menú",
+      "i": 1,
+      "t": "h1"
+    },
+    {
+      "c": "Explora todos los elementos del menú de cada camión",
+      "i": 2,
+      "t": "p"
+    }
+  ],
+  "b855d9e1dc4bd1ab": "Abierto ahora",
+  "d14f980a339f2441": "Popular",
+  "dc65ac770aca1fe1": {
+    "c": "No hay camiones programados para este día",
+    "i": 1,
+    "t": "p"
+  },
+  "f1dd72383b900deb": {
+    "d": {
+      "b": {
+        "many": {
+          "c": [
+            {
+              "i": 3,
+              "k": "_gt_n_3",
+              "v": "n"
+            },
+            " de camiones programados"
+          ],
+          "i": 2,
+          "t": "C2"
+        },
+        "other": {
+          "c": [
+            {
+              "i": 3,
+              "k": "_gt_n_3",
+              "v": "n"
+            },
+            " de camiones programados"
+          ],
+          "i": 2,
+          "t": "C2"
+        },
+        "plural": {
+          "c": [
+            {
+              "i": 3,
+              "k": "_gt_n_3",
+              "v": "n"
+            },
+            " de camiones programados"
+          ],
+          "i": 2,
+          "t": "C2"
+        },
+        "singular": {
+          "c": [
+            {
+              "i": 3,
+              "k": "_gt_n_3",
+              "v": "n"
+            },
+            " camión programado"
+          ],
+          "i": 2,
+          "t": "C2"
+        }
+      },
+      "t": "p"
+    },
+    "i": 1,
+    "t": "Plural"
+  },
+  "f6a4bec4f375b08f": {
+    "c": [
+      {
+        "i": 2,
+        "k": "_gt_n_2",
+        "v": "n"
+      },
+      " · ",
+      {
+        "d": {
+          "b": {
+            "many": {
+              "c": [
+                {
+                  "i": 5,
+                  "k": "_gt_n_5",
+                  "v": "n"
+                },
+                " reseñas"
+              ],
+              "i": 4,
+              "t": "C4"
+            },
+            "other": {
+              "c": [
+                {
+                  "i": 5,
+                  "k": "_gt_n_5",
+                  "v": "n"
+                },
+                " reseñas"
+              ],
+              "i": 4,
+              "t": "C4"
+            },
+            "plural": {
+              "c": [
+                {
+                  "i": 5,
+                  "k": "_gt_n_5",
+                  "v": "n"
+                },
+                " reseñas"
+              ],
+              "i": 4,
+              "t": "C4"
+            },
+            "singular": {
+              "c": [
+                {
+                  "i": 5,
+                  "k": "_gt_n_5",
+                  "v": "n"
+                },
+                " revisión"
+              ],
+              "i": 4,
+              "t": "C4"
+            }
+          },
+          "t": "p"
+        },
+        "i": 3,
+        "t": "Plural"
+      }
+    ],
+    "i": 1,
+    "t": "span"
+  },
+  "fb0e492c7af522d3": "Volver al inicio",
+  "fe9140aa25d5879e": {
+    "c": "No hay horario disponible",
+    "i": 1,
+    "t": "p"
+  }
+}
